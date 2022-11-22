@@ -1,0 +1,3 @@
+2 Smirnov 2 2
+1 Ivanov 1 4
+3 Popov 5 7
